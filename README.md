@@ -81,5 +81,4 @@ My Whatsapp Group👇
 * [`My Youtube Channel`](https://youtube.com/channel/UCWkuaSLdqY6CNi0JNFmAfdA)
 
 # Thanks To
-* [`Baileys`](https://github.com/adiwajshing/Baileys)
 * [`N17R0`](https://github.com/N17R0-HACKERS)
