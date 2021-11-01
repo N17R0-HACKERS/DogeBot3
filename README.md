@@ -78,7 +78,7 @@ My Whatsapp Group👇
  <a href="https://chat.whatsapp.com/IqJRUxsCGroFjNRHuuGA8Z"><img alt="WhatsApp Group" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
 </p>
 
-* [`My Youtube Channel`](https://youtube.com/channel/UCvAo9TZ0Pw9vrJ_0WYRyO3A)
+* [`My Youtube Channel`](https://youtube.com/channel/UCWkuaSLdqY6CNi0JNFmAfdA)
 
 # Thanks To
 * [`Baileys`](https://github.com/adiwajshing/Baileys)
