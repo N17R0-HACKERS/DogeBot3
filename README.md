@@ -63,6 +63,7 @@ https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 🦄 git clone https://github.com/N17R0-HACKERS/DogeBot
 🦄 cd DogeBot
 🦄 npm install
+🦄 rm session.json
 🦄 npm start
 🦄 scan qr code within 15seconds
 ```
