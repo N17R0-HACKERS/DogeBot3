@@ -9,7 +9,7 @@
 <a href="##"><img title="SELF-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&color=blue"></a>
 </p>
 <p align="center">
-  <a href="https://github.com/DGXeon"><img title="Author" src="https://img.shields.io/badge/Author-Xeon-blue.svg?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/N17R0-HACKERS"><img title="Author" src="https://img.shields.io/badge/Author-WHOAMI-blue.svg?style=for-the-badge&logo=github" /></a>
 </p>
 <p align="center">
 <a href="#"><img title="Xeon" src="https://img.shields.io/static/v1?label=WHATSAPP&message=Automated-Bot&color=blue"></a>
@@ -82,4 +82,4 @@ My Whatsapp Group👇
 * [`My Youtube Channel`](https://youtube.com/channel/UCWkuaSLdqY6CNi0JNFmAfdA)
 
 # Thanks To
-* [`N17R0`](https://github.com/N17R0-HACKERS)
+* [`WHOAMI`](https://github.com/N17R0-HACKERS)
