@@ -36,7 +36,7 @@
     "ms": "^2.1.3",
     "nhentai-pdf": "^1.0.0",
     "nhentaidownloader": "^1.1.6",
-    "node-fetch": "^2.6.1",
+    "node-fetch": "^2.6.7",
     "parse-ms": "^2.1.0",
     "path": "^0.12.7",
     "pdfkit": "^0.12.3",
